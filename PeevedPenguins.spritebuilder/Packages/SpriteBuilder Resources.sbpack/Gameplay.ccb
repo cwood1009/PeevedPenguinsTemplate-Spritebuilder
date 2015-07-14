@@ -1183,7 +1183,7 @@
 				<key>customClass</key>
 				<string>Gameplay</string>
 				<key>displayName</key>
-				<string>Gameplay</string>
+				<string>Content</string>
 				<key>memberVarAssignmentName</key>
 				<string></string>
 				<key>memberVarAssignmentType</key>
@@ -1284,8 +1284,8 @@
 						<key>value</key>
 						<array>
 							<real>26.542011260986328</real>
-							<real>296.40902709960938</real>
-							<integer>0</integer>
+							<real>23.590972900390625</real>
+							<integer>1</integer>
 							<integer>0</integer>
 							<integer>0</integer>
 						</array>
