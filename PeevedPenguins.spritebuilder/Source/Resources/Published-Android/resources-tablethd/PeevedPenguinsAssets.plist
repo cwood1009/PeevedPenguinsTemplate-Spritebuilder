@@ -147,6 +147,19 @@
 			<key>sourceSize</key>
 			<string>{2272, 1280}</string>
 		</dict>
+		<key>PeevedPenguinsAssets/recycle-logo2-240x240.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{985, 1283}, {480, 480}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {480, 480}}</string>
+			<key>sourceSize</key>
+			<string>{480, 480}</string>
+		</dict>
 		<key>PeevedPenguinsAssets/seal.png</key>
 		<dict>
 			<key>frame</key>

@@ -20,7 +20,7 @@
 		<key>PeevedPenguinsAssets/bear.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{417, 386}, {80, 78}}</string>
+			<string>{{417, 508}, {80, 78}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
@@ -46,7 +46,7 @@
 		<key>PeevedPenguinsAssets/bearnoarms.png</key>
 		<dict>
 			<key>frame</key>
-			<string>{{417, 468}, {80, 78}}</string>
+			<string>{{323, 772}, {80, 78}}</string>
 			<key>offset</key>
 			<string>{0, 0}</string>
 			<key>rotated</key>
@@ -146,6 +146,19 @@
 			<string>{{0, 0}, {568, 320}}</string>
 			<key>sourceSize</key>
 			<string>{568, 320}</string>
+		</dict>
+		<key>PeevedPenguinsAssets/recycle-logo2-240x240.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{417, 386}, {120, 120}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {120, 120}}</string>
+			<key>sourceSize</key>
+			<string>{120, 120}</string>
 		</dict>
 		<key>PeevedPenguinsAssets/seal.png</key>
 		<dict>
